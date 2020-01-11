@@ -1,0 +1,374 @@
+{
+    "basics": {
+        "name": "Even Låte",
+        "label": "Electronics Engineer & Software Developer",
+        "picture": "https://drive.google.com/thumbnail?id=1s0mfCfYS-IphntBN92gI9Ec-Fle1sXB-",
+        "summary": "I am an electronics engineer with experience in both digital and analog integrated circuit design. I'm also a software developer with industry experience in customizing business process management software. I've worked in both small and large hardware and software companies, so I am used to wearing many hats. Experience in both research and industry has forged me into a developer that appreciates test automation and an agile work methodology. I'm generally very flexible when investigating new roles. ",
+        "website": "https://www.evenlaate.tk",
+        "email": "even.laate@gmail.com",
+        "phone": "(+47) 92893321",
+        "location": {
+            "address": "Thaulows vei 2H",
+            "postalCode": "0369",
+            "city": "Oslo",
+            "countryCode": "NO"
+        },
+        "profiles": [
+            {
+                "username": "elate",
+                "url": "https://linkedin.com/in/elate",
+                "network": "linkedin"
+            },
+            {
+                "username": "EvenLaate",
+                "url": "https://twitter.com/EvenLaate",
+                "network": "twitter"
+            },
+            {
+                "url": "https://github.com/Pufferfish",
+                "username": "Pufferfish",
+                "network": "github"
+            }
+        ]
+    },
+    "volunteer": [
+        {
+            "organization": "NTNU - The university research committee",
+            "position": "Ph.D.-representative",
+            "website": "https://o365addins.it.ntnu.no/RadUtvalg/IE-Forskningsutvalget",
+            "startDate": "2015-02-16",
+            "endDate": "2017-07-31",
+            "summary": "I served as a representative in the university research committee at the Faculty of Information Technology and Electrical Engineering (IE). The committee acts as a research advisor to the university rector on behalf of the Faculty of Information Technology and Electrical Engineering.",
+            "highlights": [
+                "Monthly meetings with representatives from all departments under IE."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "endDate": "2020-06-15",
+            "startDate": "2014-08-15",
+            "area": "Electronic Engineering (incomplete)",
+            "studyType": "Ph.D.",
+            "institution": "The Norwegian University of Science and Technology (NTNU)"
+        },
+        {
+            "endDate": "2018-06-15",
+            "startDate": "2015-08-15",
+            "area": "Economics, Business Administration",
+            "studyType": "B.B.A.",
+            "institution": "NTNU, Previously Sør-Trøndelag University College (HiST)"
+        },
+        {
+            "endDate": "2014-06-15",
+            "startDate": "2009-08-15",
+            "area": "Electronic Engineering",
+            "studyType": "M.Sc.",
+            "institution": "NTNU"
+        },
+        {
+            "endDate": "2013-06-15",
+            "startDate": "2012-08-15",
+            "area": "Electronic Engineering",
+            "studyType": "Exchange",
+            "institution": "Seoul National University (SNU)"
+        },
+        {
+            "endDate": "2009-09-15",
+            "startDate": "2008-09-15",
+            "area": "Military service, Reconnaissance Platoon",
+            "studyType": "Private",
+            "institution": "His Majesty The King’s Guard (HMKG)"
+        },
+        {
+            "endDate": "2008-06-15",
+            "startDate": "2005-08-15",
+            "area": "Scientific studies, Upper Secondary School",
+            "studyType": "Pupil",
+            "institution": "Berg Upper Secondary School"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Benefiting from State Dependencies in Asymmetric SRAM Cells through Conditional Word-flipping.",
+            "publisher": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+            "releaseDate": "Under review",
+            "website": "http://tvlsi.egr.duke.edu/",
+            "summary": "Introducing a greedy word-flipping scheme for macros of asymmetric SRAM cells implemented and manufactured in 130 nm CMOS."
+        },
+        {
+            "name": "An Energy Efficient Level Shifter Capable of Logic Conversion From Sub-15 mV to 1.2 V.",
+            "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)",
+            "releaseDate": "Accepted",
+            "website": "https://ieee-cas.org/pubs/tcas2",
+            "summary": "Introducing an ultra low voltage, energy efficient levelshifter implemented and manufactured in 130 nm CMOS."
+        },
+        {
+            "name": "A loadless 6T SRAM cell for sub- & near- threshold operation implementedin 28 nm FD-SOI CMOS technology.",
+            "publisher": "Elsevier - Integration. vol. 63",
+            "releaseDate": "2018-10-01",
+            "website": "https://www.journals.elsevier.com/integration",
+            "summary": "Introducing a low voltage, energy efficient, memory cell in 28 nm CMOS."
+        },
+        {
+            "name": "Ultra-Low Voltage and Energy Efficient Adders in 28 nm FDSOI Exploring Poly-Biasing for Device Sizing.",
+            "publisher": "Microprocessors and microsystems. vol. 56.",
+            "releaseDate": "2018-02-01",
+            "website": "https://www.journals.elsevier.com/microprocessors-and-microsystems",
+            "summary": "Creating and using a custom low voltage library to implement and manufacture ultra low voltage adders."
+        },
+        {
+            "name": "Extended Comparative Analysis of Flip-Flop Architectures for Subthreshold Applications in 28 nm FD-SOI.",
+            "publisher": "Microprocessors and microsystems. vol. 48.",
+            "releaseDate": "2017-02-01",
+            "website": "https://www.journals.elsevier.com/microprocessors-and-microsystems",
+            "summary": "Comparative study of memory elements for low voltage sequential CMOS logic."
+        }
+    ],
+    "references": [
+        {
+            "reference": "To be aquired",
+            "name": "Lennart Sjøgren, Partner - Deloitte AS."
+        },
+        {
+            "reference": "To be aquired",
+            "name": "Snorre Aunet, Professor - NTNU."
+        },
+        {
+            "reference": "Even Låte har tatt aktivt del i utvalgets arbeid gjennom fem semester. I denne perioden ble blant annet gjennomført en omfattende periodisk internasjonal evalueringen av alle fakultetets 6 ph.d. programmer. Fakuttetet setter stor pris på den innsats som er utført.",
+            "name": "Harald Lenschow, Sekretær - Fakultet for informasjonsteknologi og elektroteknikk ved NTNU"
+        },
+        {
+            "reference": "During the period of employment Even Låte has been working with migration, analog design and simulation of an existing SAR ADC architecture into a 0,35um analog CMOS process. During his work he showed good skills in analog CMOS design and also in our CAD tools from Cadence. As a person Even Låte has shown good cooperative and social skills with the analog group.",
+            "name": "Jan Rune Herheim, Manager - Atmel Norway."
+        },
+        {
+            "reference": "Even performed his work diligently and in an excellent cooperative spirit. He is now continuing on a project assignment with us as a part of his education at NTNU.",
+            "name": "Gunnar Maehlum, CEO - Integrated Detector Electronics AS (IDEAS)."
+        },
+        {
+            "reference": "Even har under sin tid vid Goodtech med stor noggrannhet och stort intresse u tfört sina arbetsuppgifter. Even har varit placerad vid Oslokontoret där han arbetat vid koncernens IT - helpdesk. Koncern IT - funktionen spänner över länderna Sverige och Norge så arbetet har inneburit många kontakter med Sverige. Even har hjälpt Svenska och Norska användare samt sökt lösningen på problem bland både N orska och Svenska medarbetare inom IT. Många användare är mycket kunniga inom IT varför nivån på helpdeskärenden kan vara ”hög”. Even har fungerat bra inom den landsöver spännande IT - avdelningen och löst sina uppgifter på ett bra sätt.",
+            "name": "Rickard Nordlund, CIO - Goodtech."
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "Automation of business processes",
+                "Unit4 Business World (UBW)",
+                "Database Migration",
+                "Model View Controller (MVC)",
+                "C#",
+                "Agresso Customization Tools (ACT) Framework",
+                "ASP.net",
+                "TSQL",
+                "REST-API",
+                "Reporting with ReSQL and Unit4 Report Engine"
+            ],
+            "level": "Senior",
+            "name": "Software Engineering"
+        },
+        {
+            "keywords": [
+                "Prototyping",
+                "28 nm, 65 nm, 90 nm, 130 nm, 0.35 µm CMOS",
+                "Digital",
+                "Analog",
+                "Synthesis",
+                "Place & Route",
+                "SRAM",
+                "DRAM",
+                "Custom Logic Library",
+                "Low Voltage",
+                "Energy Efficiency",
+                "PCB for Test"
+            ],
+            "level": "Senior",
+            "name": "Integrated Circuit (IC) design"
+        },
+        {
+            "keywords": [
+                "Atmel AVR µC",
+                "STM Nucleo μc",
+                "Nordic SDK",
+                "Xilinx Fpgas",
+                "ARM Prototyping Kit",
+                "Raspberry PI"
+            ],
+            "level": "Senior",
+            "name": "Embedded Hardware Platforms"
+        },
+        {
+            "keywords": [
+                "Cadence EDA",
+                "Tanner EDA",
+                "Altium PCB Designer",
+                "Synopsis Design Compiler",
+                "Active-HDL",
+                "LT-SPICE",
+                "AIM-SPICE",
+                "ARM mbed",
+                "Atmel Studio",
+                "Quartus",
+                "Linux Systems",
+                "Eclipse",
+                "IntelliJ IDEA",
+                "Visual Studio",
+                "Visual Studio Code",
+                "Active Directory",
+                "Exchange",
+                "TeamViewer",
+                "Lotus Notes",
+                "Github",
+                "Bitbucket",
+                "Jira",
+                "Trello"
+            ],
+            "level": "Senior",
+            "name": "Software Environments"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Microelectronics prize 2014, Best Master's Thesis Award",
+            "date": "2014-09-01",
+            "awarder": "Mikroelektronikkforum",
+            "summary": "The prize was awarded for the thesis titled: Transaction Level Modeling of a PCI Express Root Complex. It is awarded annually to students at the M.Sc. level at the department of telecommunications and electronics at NTNU."
+        }
+    ],
+    "work": [
+        {
+            "summary": "Automation and implementation of business software for The Norwegian Government Agency for Financial Management (DFØ), Bærum municipality, Schibsted international media group, SANDS law firm, Bane NOR SF and more.",
+            "website": "http://deloitte.no",
+            "company": "Deloitte AS",
+            "location": "Oslo",
+            "position": "Consultant",
+            "startDate": "2018-08-15",
+            "highlights": [
+                "Customized Unit4 Business World (UBW).",
+                "Used the Agresso Customization Tools (ACT) Framework.",
+                "Developed solutions with C#, ASP.NET and SQL.",
+                "Responsible for migrating data between databases at Bærum.",
+                "Administrator and responsible for Jira and Kanban at the team in DFØ.",
+                "Automation of test routines."
+            ]
+        },
+        {
+            "highlights": [
+                "Design space exploration of energy efficient memory cells",
+                "Invented memory cells and schemes.",
+                "Designed and prototyped concepts on silicon",
+                "Created test PCB and programemd micro-controllers for test-purposes",
+                "Published multiple papers in academic journals and conferences.",
+                "Mentored M.Sc. students and assisted in teaching courses."
+            ],
+            "summary": "The research project involved the design and prototyping of energy-efficient memory cells for integrated circuits. The research goal was to improve battery-lifetime on wireless sensor nodes in the internet of things and to mitigate the dark silicon effect in multicore architectures.",
+            "website": "https://www.ntnu.no/ansatte/even.late",
+            "company": "NTNU",
+            "position": "Research fellow",
+            "startDate": "2014-08-15",
+            "endDate": "2018-08-15"
+        },
+        {
+            "highlights": [
+                "Development of an OCR tool that sorts scanned forms.",
+                "Used tools like C#, Google tesseract, Ghostscript.",
+                "Automation of labour intensive work tasks"
+            ],
+            "summary": "C# was used to automate a labor-intensive work task. A tool for optical character recognition was configured to analyze Large amounts of scanned documents and sort them into appropriate folders depending on the recognized content. The programming job consisted of binding together tools like Google Tesseract and Ghostscript in a user-friendly environment.",
+            "website": "http://aventi.no/",
+            "company": "Aventi Group AS",
+            "position": "Software developer",
+            "startDate": "2016-01-01",
+            "endDate": "2016-04-01"
+        },
+        {
+            "highlights": [
+                "Redesign of a digital to analog converter.",
+                "Cadence was used to port an ADC from one CMOS technology to another.",
+                "Lots of social networking integration",
+                "Summer internship"
+            ],
+            "summary": "Redesign of an analog to digital converter for use in Atmel's maxTouch circuit. This integrated circuit is previously used to read the touch interface in Samsung devices.",
+            "website": "https://www.microchip.com/",
+            "company": "Atmel Norway AS ",
+            "position": "Analog IC designer",
+            "startDate": "2015-06-15",
+            "endDate": "2015-08-15"
+        },
+        {
+            "highlights": [
+                "Industrial master's thesis titled: Transaction level modelling of a PCIe root complex.",
+                "Used systemC/C++ to model a PCI express root complex",
+                "Measured packet delays on Oracle's hardware and modeled these in systemC"
+            ],
+            "summary": "A package based communication model was implemented in a C++ based hardware modeling language. The purpose of the implementation was to provide the hardware designers in Oracle.",
+            "website": "https://www.oracle.com/no/it-infrastructure/",
+            "company": "Oracle",
+            "position": "Software/Hardware developer",
+            "endDate": "2014-06-01",
+            "startDate": "2014-01-01"
+        },
+        {
+            "highlights": [
+                "Industrial project thesis",
+                "Configuration of a place & route tool in Tanner EDA"
+            ],
+            "summary": "The project involved configuration and benchmarking of a hardware design-tool that automatically creates physical layouts of IDEAS` radiation-hard integrated circuits.",
+            "website": "https://ideas.no/",
+            "company": "Integrated Detector Electronics AS (IDEAS)",
+            "position": "Hardware developer",
+            "endDate": "2013-12-20",
+            "startDate": "2013-08-01"
+        },
+        {
+            "highlights": [
+                "Radiation hardening a microchip",
+                "Tanner EDA's S-edit and L-edit was used to draw the layout of IDEAS' sensor trigger asic",
+                "Summer internship"
+            ],
+            "summary": "IDEAS creates integrated circuits for medical and space applications that read and quantifies charge on detectors. The summer project involved manual placement and routing of radiation-hard components, to redesign an existing circuit, and to make it resilient to the radiation in space.",
+            "website": "https://ideas.no/",
+            "company": "IDEAS",
+            "position": "Hardware developer",
+            "startDate": "2013-06-15",
+            "endDate": "2013-08-15"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Norwegian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "German",
+            "fluency": "Basic"
+        },
+        {
+            "language": "French",
+            "fluency": "Beginner"
+        },
+        {
+            "language": "Korean",
+            "fluency": "Beginner"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Fishing & hunting"
+        },
+        {
+            "name": "Mountain hiking"
+        },
+        {
+            "name": "Electronics projects"
+        },
+        {
+            "name": "Rock climbing"
+        }
+    ]
+}
