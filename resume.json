@@ -3,8 +3,7 @@
         "name": "Even Låte",
         "label": "Electronics Engineer & Software Developer",
         "picture": "https://drive.google.com/thumbnail?id=1s0mfCfYS-IphntBN92gI9Ec-Fle1sXB-",
-        "summary": "Even Låte is an electronics engineer with experience in both digital and analog integrated circuit design. He has also worked as a software developer since the summer of 2018, where he has customized business process management software with C# and SQL. Experience in both the industry and in academic research has formed Even into an engineer that appreciates seamless workflows such as test automation and an agile work methodology. Even is flexible when investigating new roles.",
-        "website": "https://www.evenlaate.tk",
+        "summary": "Even Låte is a software and hardware engineer. He holds a PhD electronics in electronic engineering from NTNU and he has industry experience in digital and analog integrated circuit design. He has worked as a software developer from 2018 to to 2020, where he gained experience with customization of business process management software with C# and SQL. Since 2021 he has worked as a digital circuit designer with responsibility for on-premise tools, linux server maintenance and design automation. Experience in both the industry and in academic research has shaped Even into an engineer that appreciates seamless workflows such as test automation and an agile work methodology. Even is flexible when investigating new roles.",
         "email": "even.laate@gmail.com",
         "phone": "(+47) 92893321",
         "location": {
@@ -46,9 +45,9 @@
     ],
     "education": [
         {
-            "endDate": "2020-06-15",
+            "endDate": "2021-06-01",
             "startDate": "2014-08-15",
-            "area": "Electronic Engineering (incomplete)",
+            "area": "Electronic Engineering",
             "studyType": "Ph.D.",
             "institution": "The Norwegian University of Science and Technology (NTNU)"
         },
@@ -92,14 +91,14 @@
         {
             "name": "Benefiting from State Dependencies in Asymmetric SRAM Cells through Conditional Word-flipping.",
             "publisher": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
-            "releaseDate": "Under review",
+            "releaseDate": "2020-08-14",
             "website": "http://tvlsi.egr.duke.edu/",
             "summary": "Introducing a greedy word-flipping scheme for macros of asymmetric SRAM cells implemented and manufactured in 130 nm CMOS."
         },
         {
             "name": "An Energy Efficient Level Shifter Capable of Logic Conversion From Sub-15 mV to 1.2 V.",
             "publisher": "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)",
-            "releaseDate": "Accepted",
+            "releaseDate": "2020-01-14",
             "website": "https://ieee-cas.org/pubs/tcas2",
             "summary": "Introducing an ultra low voltage, energy efficient levelshifter implemented and manufactured in 130 nm CMOS."
         },
@@ -113,14 +112,14 @@
         {
             "name": "Ultra-Low Voltage and Energy Efficient Adders in 28 nm FDSOI Exploring Poly-Biasing for Device Sizing.",
             "publisher": "Microprocessors and microsystems. vol. 56.",
-            "releaseDate": "2018-02-01",
+            "releaseDate": "2017-11-08",
             "website": "https://www.journals.elsevier.com/microprocessors-and-microsystems",
             "summary": "Creating and using a custom low voltage library to implement and manufacture ultra low voltage adders."
         },
         {
             "name": "Extended Comparative Analysis of Flip-Flop Architectures for Subthreshold Applications in 28 nm FD-SOI.",
             "publisher": "Microprocessors and microsystems. vol. 48.",
-            "releaseDate": "2017-02-01",
+            "releaseDate": "2016-07-22",
             "website": "https://www.journals.elsevier.com/microprocessors-and-microsystems",
             "summary": "Comparative study of memory elements for low voltage sequential CMOS logic."
         }
@@ -128,10 +127,14 @@
     "references": [
         {
             "reference": "To be aquired",
+            "name": "Johannes Solhusvik, Head of Automotive Design Centre - Sony Corporation."
+        },
+        {
+            "reference": "Even tilegner seg ny kunnskap raskt og skaper gode samarbeidsrelasjoner med kunder og kollegaer i prosjekter som han deltar i.",
             "name": "Lennart Sjøgren, Partner - Deloitte AS."
         },
         {
-            "reference": "To be aquired",
+            "reference": "In 2020 Even published 2 papers in IEEE Transactions on VLSI and IEEE Transactions on circuits and systems, Express briefs, respectively. The former is a Q2 journal in the Scimago journal ranking system ( www.scimago.org ), while the latter is in the top category; Q1.",
             "name": "Snorre Aunet, Professor - NTNU."
         },
         {
@@ -163,10 +166,62 @@
                 "ASP.net",
                 "TSQL",
                 "REST-API",
-                "Reporting with ReSQL and Unit4 Report Engine"
+                "Reporting with ReSQL and Unit4 Report Engine",
+                "SOAP",
+                "Server Administration",
+                "Docker",
+                "VBA",
+                "PHP",
+                "Javascript",
+                "CICD"
             ],
             "level": "Senior",
             "name": "Software Engineering"
+        },{
+            "keywords": [
+                "Cadence EDA",
+                "Tanner EDA",
+                "Altium PCB Designer",
+                "Synopsis Design Compiler",
+                "Active-HDL",
+                "LT-SPICE",
+                "AIM-SPICE",
+                "ARM mbed",
+                "Atmel Studio",
+                "Quartus",
+                "Linux Systems",
+                "Eclipse",
+                "IntelliJ IDEA",
+                "Visual Studio",
+                "Visual Studio Code",
+                "Active Directory",
+                "Exchange",
+                "TeamViewer",
+                "Lotus Notes",
+                "Github",
+                "Bitbucket",
+                "Jira",
+                "Confluence",
+                "Collaborator",
+                "Trello",
+                "Jenkins"
+            ],
+            "level": "Senior",
+            "name": "Software Environments"
+        },
+        {
+            "keywords": [
+                "CMOS image sensor architecture",
+                "ARM",
+                "Verilog",
+                "System Verilog",
+                "TSMC Memory Compilers",
+                "Design Specification",
+                "Scripting",
+                "Agile"
+            ],
+            "level": "Senior",
+            "name": "Digital Circuit Design"
         },
         {
             "keywords": [
@@ -197,35 +252,6 @@
             ],
             "level": "Senior",
             "name": "Embedded Hardware Platforms"
-        },
-        {
-            "keywords": [
-                "Cadence EDA",
-                "Tanner EDA",
-                "Altium PCB Designer",
-                "Synopsis Design Compiler",
-                "Active-HDL",
-                "LT-SPICE",
-                "AIM-SPICE",
-                "ARM mbed",
-                "Atmel Studio",
-                "Quartus",
-                "Linux Systems",
-                "Eclipse",
-                "IntelliJ IDEA",
-                "Visual Studio",
-                "Visual Studio Code",
-                "Active Directory",
-                "Exchange",
-                "TeamViewer",
-                "Lotus Notes",
-                "Github",
-                "Bitbucket",
-                "Jira",
-                "Trello"
-            ],
-            "level": "Senior",
-            "name": "Software Environments"
         }
     ],
     "awards": [
@@ -237,6 +263,22 @@
         }
     ],
     "work": [
+          {
+            "summary": "50/50 Digital circuit design of CMOS image sensors and Server Maintenance and design & test automation",
+            "website": "https://sony-semicon.co.uk/eudc-student-jobs/",
+            "company": "Sony Corporation",
+            "location": "Oslo",
+            "position": "Digital Designer",
+            "startDate": "2020-05-01",
+            "highlights": [
+                "Digital Circuit Design in verilog and systemverilog",
+                "Server administration in Redhat",
+                "Dockerization of on premise web servers (Jira, Confluence, Collaborator, Jenkins and license servers)",
+                "Creation of tools to translate japanese to english translation using azure services",
+                "Jira, Confluence & Jenkins Automation consuming APIs",
+                "And more Automation of labor intensive work tasks"
+            ]
+        },
         {
             "summary": "Automation and implementation of business software for The Norwegian Government Agency for Financial Management (DFØ), Bærum municipality, Schibsted international media group, SANDS law firm, Bane NOR SF and more.",
             "website": "http://deloitte.no",
@@ -244,6 +286,7 @@
             "location": "Oslo",
             "position": "Consultant",
             "startDate": "2018-08-15",
+            "endDate": "2020-05-01",
             "highlights": [
                 "Customized Unit4 Business World (UBW).",
                 "Used the Agresso Customization Tools (ACT) Framework.",
